@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+
+.svg-inline--fa.fa-facebook {
+  font-size: 2rem;
+  color: red;
+  background: black;
+  padding: 12px 15px;
+  border-radius: 5px;
+  margin-top: 16px;
+  margin-left: 16px;
+}
